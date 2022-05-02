@@ -6,6 +6,6 @@ Hi, 👋 am Temitope.
 - 🤔 I’m looking for help getting an onsite or a remote jobs. 
 - 💬 Ask me about tech. 
 - 📫 How to reach me: temitope321ayo@gmail.com
-- 😄 Pronouns: tay_mee_tur_kpe
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I was an automotive mechanic. 
 -->
