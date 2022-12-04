@@ -1,6 +1,6 @@
 Hi, 👋 am Temitope. 
 
-- 🔭 I’m currently working on a UI development of a delivery company app.  
+- 🔭 I’m currently working in a FinTech company as a Linux POS Terminal developer.
 - 🌱 I’m learning everyday to become a better developer. 
 - 👯 I’m looking to collaborate on any Flutter, C/C++, and Django project.  
 - 🤔 I’m looking for help getting an onsite or remote jobs. 
